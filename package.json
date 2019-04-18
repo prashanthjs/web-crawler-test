@@ -1,0 +1,20 @@
+{
+  "name": "crawler-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "url-parse": "^1.4.6",
+    "winston": "^3.2.1",
+    "x2js": "^3.2.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1"
+  }
+}
